@@ -1,4 +1,4 @@
-
+#!/usr/local/bin node
 var express = require('express');
 var fs = require('fs');
 var app = express.createServer(express.logger());
